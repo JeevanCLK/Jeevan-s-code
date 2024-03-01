@@ -1,4 +1,14 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+/>
+<link rel="stylesheet" href="stylesheet.css"/>
+</head>
 <body>
 <section>
       <div class="content">
@@ -17,99 +27,99 @@
           <div class="swiper-wrapper">
             <div class="swiper-slide">
               <img
-                src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/b6f5eb64-887c-43b1-aaba-d52a4c59a379"
+                src="abhi.jpg"
                 alt="" />
               <div class="overlay">
                 <span>8.5</span>
-                <h2>The Queen's Gambit</h2>
+                <h2>Abhishek Bacchan</h2>
               </div>
             </div>
 
             <div class="swiper-slide">
               <img
                 class="img-position"
-                src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/e906353b-fde0-4518-9a03-16545c1161bd"
+                src="bharath.jpg"
                 alt="" />
               <div class="overlay">
                 <span>9.5</span>
-                <h2>Breaking Bad</h2>
+                <h2>Bharath Kumar RS</h2>
               </div>
             </div>
 
             <div class="swiper-slide">
               <img
-                src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/fc21e481-e28a-41a8-9db3-3b62c1ddc17e"
+                src="jay.jpg"
                 alt="" />
               <div class="overlay">
                 <span>8.1</span>
-                <h2>Wednesday</h2>
+                <h2>JAAYYY</h2>
               </div>
             </div>
 
             <div class="swiper-slide">
               <img
-                src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/6b6ad966-79e1-4d3c-8f92-566d0fee8082"
+                src="savan.jpg"
                 alt="" />
               <div class="overlay">
                 <span>8.7</span>
-                <h2>Stranger Things</h2>
+                <h2>Savanadurga</h2>
               </div>
             </div>
 
             <div class="swiper-slide">
               <img
-                src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/2ad44f5d-2215-4416-9c9b-2bae3be51a67"
+                src="siri.jpeg"
                 alt="" />
               <div class="overlay">
                 <span>8.6</span>
-                <h2>Anne with an E</h2>
+                <h2>Look at my back--it's SIRI</h2>
               </div>
             </div>
 
             <div class="swiper-slide">
               <img
-                src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/aa8fe914-741f-4bf4-ad4a-24f19d1f4178"
+                src="sriram.jpg"
                 alt="" />
               <div class="overlay">
                 <span>8.9</span>
-                <h2>Friends</h2>
+                <h2>Jai Shree Ram</h2>
               </div>
             </div>
 
             <div class="swiper-slide">
               <img
                 class="img-position"
-                src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/d5f10b4f-7d34-45bd-bb5f-5f1530c2ac1c"
+                src="wayanad.jpg"
                 alt="" />
               <div class="overlay">
                 <span>8.6</span>
-                <h2>The Crown</h2>
+                <h2>Wayanaad</h2>
               </div>
             </div>
 
             <div class="swiper-slide">
               <img
-                src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/7cbac263-7c55-4428-908e-31018dc1bce3"
+                src="wayanadjee.jpg"
                 alt="" />
               <div class="overlay">
                 <span>8.7</span>
-                <h2>House M.D.</h2>
+                <h2>Wayanad</h2>
               </div>
             </div>
 
             <div class="swiper-slide">
               <img
-                src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/2929f534-3bc3-4cbd-b84c-80df863d5a38"
+                src="jemapa.jpg"
                 alt="" />
               <div class="overlay">
                 <span>9.2</span>
-                <h2>Game of Thrones</h2>
+                <h2>Me Karis and Kulda</h2>
+
               </div>
             </div>
           </div>
         </div>
       </div>
-
       <ul class="circles">
         <li></li>
         <li></li>
@@ -123,7 +133,7 @@
         <li></li>
       </ul>
     </section>
-
-
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script src="javascript.js"></script>
 </body>
 </html>
