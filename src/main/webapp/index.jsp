@@ -14,7 +14,7 @@
       <div class="content">
         <div class="info">
           <p>
-            Here is my first jenkins CI CD deployement
+            Here is my first jenkins CI CD dep
             <span class="movie-night">movie night</span> filled with popcorn,
             laughter, and great company! Whether you're a fan of thrilling
             action, heartwarming dramas, or side-splitting comedies, we've got a
